@@ -21,6 +21,8 @@ Scrapes earnings call transcripts, runs FinBERT sentiment scoring and BERTopic t
 | `backtest/event_study.py` | Event study: cumulative abnormal returns around earnings |
 | `app/dashboard.py` | Streamlit app: ticker input → full transcript analysis |
 
+new one 
+
 ---
 
 ## Methodology
